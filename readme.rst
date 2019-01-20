@@ -1,7 +1,9 @@
 8位RISC CPU的Verilog实现
 ========================
 
-[TOC]
+.. toctree::
+    :maxdepth: 2
+
 
 一. 设计需求
 ------------
